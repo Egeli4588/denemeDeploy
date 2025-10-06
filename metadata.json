@@ -1,0 +1,5 @@
+{
+  "name": "Bilişim Teknolojileri Asistanı",
+  "description": "Uzman bir Bilişim Teknolojileri öğretmeni gibi davranan, Gemini destekli bir sohbet asistanı. Sorulara ortaokul düzeyinde, örneklerle ve kısa cevaplar verir.",
+  "requestFramePermissions": []
+}
